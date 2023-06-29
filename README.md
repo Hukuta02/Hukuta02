@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Nikita.
 - 👀 I’m interested with studying new opportunities.
-- 🌱 I’m currently learning Java and Spring.
+- 🌱 I’m currently learning HTML/CSS & JavaScript, Java and Cpp.
 - 📫 How to reach me: TG @degrot
 
 <!---
